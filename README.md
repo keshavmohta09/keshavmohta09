@@ -1,12 +1,11 @@
+
 # Hi, I'm Keshav 👋
+🚀 Backend Engineer | Python | Data Platforms | Open Source Contributor
+
+[![portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://keshavmohta09.github.io/portfolio/)
 
 Backend Engineer focused on **Python, Django, and data-intensive platforms**.
 I work on **scalable ingestion systems, metadata platforms, and performance-critical backend services**, and actively contribute to large open-source codebases.
-
----
-
-## 🌐 Portfolio
-👉 https://keshavmohta09.github.io/portfolio/
 
 ---
 
